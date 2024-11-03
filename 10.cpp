@@ -45,4 +45,5 @@ int main(){
 
     for(auto it:ans)
     cout<<it<<" ";
+    cout<<suman<<endl;
 }
